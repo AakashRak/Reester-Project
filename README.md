@@ -23,10 +23,10 @@ Features
 
 Technologies Used
 
-HTML
+1.HTML
 
 
-CSS
+2.CSS
 
 
 Usage
