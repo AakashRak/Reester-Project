@@ -8,23 +8,40 @@ This is a simple food ordering website created using HTML and basic CSS. The web
 Features
 
 1.User-friendly interface for easy navigation.
+
+
 2.Displays a range of food items with images and descriptions.
+
+
 3.Allows users to add items to their cart and adjust quantities.
+
+
 4.Provides a checkout process for users to review their orders and submit them.
+
+
 5.Basic CSS styling for a visually appealing presentation.
 
 Technologies Used
 
 HTML
+
+
 CSS
 
 
 Usage
 
 1.Browse through the available food items.
+
 2.Click on the items you wish to order to add them to your cart.
+
+
 3.Adjust the quantities of items in your cart if needed.
+
+
 4.Proceed to checkout and fill in the required information.
+
+
 5.Submit your order.
 
 
