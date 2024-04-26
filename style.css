@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0
+    ;
+}
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.form{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.table{
+    padding-left: 40%;
+}
+.section-two,.section-three,.section-four,.section-five{
+    display: inline-block;
+    margin: 10px;
+    border: solid black 1px;
+    vertical-align: top;
+    
+}
+.container{
+text-align: center;
+}
+.section-two__b2,.section-three__b3,.section-four__b4,.section-five__b5{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 3px;
+}
+.table-one{
+    background-color: yellow;
+    color: black;
+}
+.container-one{
+    margin: 30px;
+}
+.container-one__desc{
+    color: gray;
+}
+.button{
+    padding: 3px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: yellow;
+}
+
+
